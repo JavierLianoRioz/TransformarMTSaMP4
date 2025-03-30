@@ -32,3 +32,7 @@
 4️⃣ El programa procesará los archivos .mts en la carpeta `input/` y los convertirá a .mp4 en la carpeta `output/`.
 
 5️⃣ ¡Disfruta de tus videos convertidos! 🎉
+
+## ⚠️ Advertencia
+
+Este script está diseñado actualmente para ejecutarse únicamente en sistemas Windows utilizando PowerShell. Si tienes ideas o sugerencias para añadir compatibilidad con otros sistemas operativos o características adicionales, ¡no dudes en enviar un Pull Request!
